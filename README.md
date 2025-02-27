@@ -4,7 +4,7 @@
 This project predicts customer churn using machine learning techniques. The goal is to identify customers who are likely to stop using a service, enabling proactive retention strategies.
 
 ## Dataset
-The dataset used is `customer_churn.csv`, which contains customer information such as tenure, monthly charges, and churn status.
+The dataset used is `ChurnCustomerPrediction.csv`, which contains customer information such as tenure, monthly charges, and churn status.
 
 ## Methodology
 1. **Data Preprocessing:** Handling missing values, encoding categorical variables, and scaling numerical features.
@@ -13,7 +13,7 @@ The dataset used is `customer_churn.csv`, which contains customer information su
 4. **Evaluation:** Metrics include accuracy, precision, recall, and F1-score.
 
 ## Results
-- Best model: **Random Forest** with 85% accuracy.
+- Best model: **Random Forest** with 81% accuracy.
 - Key features: **Tenure**, **Monthly Charges**, and **Contract Type**.
 
 ## How to Run
