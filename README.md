@@ -21,11 +21,12 @@ The dataset used is `customer_churn.csv`, which contains customer information su
    ```bash
    git clone https://github.com/Frankly/Customer_Churn_Prediction.git
 
-   Install dependencies:
-bash:
+
+2. Install dependencies:
+    ```bash:
     pip install -r requirements.txt
     
-Open the Jupyter Notebook:
-bash:
+3. Open the Jupyter Notebook:
+    ```bash:
     jupyter notebook notebooks/ChurnCustomerPrediction_prediction.ipynb
     
