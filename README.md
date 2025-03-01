@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 
 ## Overview
-This project predicts customer churn using machine learning techniques. The goal is to identify customers who are likely to stop using a service, enabling proactive retention strategies.
+This project predicts customer churn using machine learning techniques. The goal is to identify customers who are likely to stop using a service, enabling proactive retention strategies. 
 
 ## Dataset
 The dataset used is `ChurnCustomerPrediction.csv`, which contains customer information such as tenure, monthly charges, and churn status.
